@@ -7,7 +7,7 @@ Aspiring Data Analyst & Business Intelligence Professional
 📍 Long Beach, CA • 📧 wasimahin@gmail.com  
 🔗 <a href="https://linkedin.com/in/wasi-mahin">LinkedIn</a> • 
 💻 <a href="https://github.com/wasimahin">GitHub</a> • 
-📊 <a href="https://www.datacamp.com/portfolio/wasimahin">Portfolio</a>
+📊 📊 <a href="https://www.datacamp.com/portfolio/wasimahin">DataCamp</a>
 </p>
 
 ---
@@ -134,6 +134,6 @@ Experience integrating AI tools (ChatGPT, Claude) into:
 
 - LinkedIn: https://linkedin.com/in/wasi-mahin  
 - GitHub: https://github.com/wasimahin  
-- Portfolio: https://www.datacamp.com/portfolio/wasimahin  
+- DataCamp: https://www.datacamp.com/portfolio/wasimahin  
 
 ---
