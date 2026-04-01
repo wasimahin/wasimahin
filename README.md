@@ -1,84 +1,95 @@
-# 👋 Hi, I'm Wasi Mahin
+<h1 align="center">Wasi Mahin</h1>
+<p align="center">
+Aspiring Data Analyst & Business Intelligence Professional  
+</p>
 
-🎯 Aspiring Data Analyst & Business Intelligence Professional  
-📍 Long Beach, CA  
-📊 MIS & Accountancy @ CSULB (GPA: 3.87)  
-
----
-
-## 🚀 About Me
-
-I’m a dual-major student in **Management Information Systems and Accountancy** with 1.5+ years of experience in data analytics, financial analysis, and workflow automation.
-
-I specialize in turning messy data into clear insights and building systems that improve efficiency and decision-making.
-
-💡 Recently, I’ve been building **data analytics projects weekly** to strengthen my skills in BI, automation, and AI-assisted workflows.
+<p align="center">
+📍 Long Beach, CA • 📧 wasimahin@gmail.com  
+🔗 <a href="https://linkedin.com/in/wasi-mahin">LinkedIn</a> • 
+💻 <a href="https://github.com/wasimahin">GitHub</a> • 
+📊 <a href="https://www.datacamp.com/portfolio/wasimahin">Portfolio</a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 Professional Summary
 
-### 📊 Data & Analytics
-- Data Analysis  
-- KPI Dashboard Design  
-- ETL Pipelines  
-- Financial Statement Analysis  
-- Data Visualization  
-- Correlation Analysis  
+Dual-major student in **Management Information Systems and Accountancy** at CSULB (GPA: 3.87, President’s List every semester) with 1.5+ years of applied experience in financial data analysis, Power BI dashboard development, and AI-driven workflow automation.
 
-### 💻 Tools & Technologies
+Demonstrated ability to reduce processing time by 70–80% and increase operational efficiency by 50% through data-driven process redesign. Seeking opportunities in Data Analytics, Business Intelligence, or Financial Analysis.
+
+---
+
+## 🛠️ Core Competencies
+
+### Tools & Platforms
 - Power BI (DAX, Data Modeling)  
-- SQL  
-- Excel (Advanced)  
-- Python (Basic)  
 - Microsoft Fabric  
 - Microsoft Copilot  
+- Excel (Advanced)  
+- SQL  
+- Python (Basic)  
 - GitHub  
 
-### 📈 Business & Strategy
+### Analytics
+- ETL Pipelines  
+- KPI Dashboard Design  
+- Financial Statement Analysis  
+- Correlation Analysis  
+- Data Visualization  
+- Prompt Engineering  
+
+### Business
 - Budgeting & Forecasting  
 - Process Improvement  
 - Stakeholder Communication  
 - SWOT & Feasibility Analysis  
+- Business Intelligence  
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Associated Students, Inc. — CSULB  
-**Lead Business Office Representative** (2026–Present)
+### Associated Students, Inc. — CSULB  
+**Lead Business Office Representative / Office Teller** (Feb 2026 – Present)
 
-- Automated financial workflows, improving efficiency by **50%**
-- Ensured **100% data reliability** through validation and reconciliation
-- Delivered SQL-driven budget analysis across ASI and USU operations
-- Trained team members on systems and financial processes
+- Automated financial data extraction, validation, and reporting using Microsoft Copilot and prompt engineering  
+- Increased operational efficiency by 50% through workflow redesign  
+- Maintained 100% data reliability across financial reporting cycles  
+- Delivered SQL-driven budget analysis for ASI and USU  
+- Trained team members on financial systems and processes  
 
-**Business Office Representative** (2024–2026)
+**Business Office Representative / Office Teller** (Oct 2024 – Feb 2026)
 
-- Reduced processing time by **80%**
-- Built automated data pipelines using Copilot
-- Supported budgeting for 20+ student organizations
+- Reduced processing time by 80% through system improvements  
+- Automated data workflows, reducing processing time by 70%  
+- Supported budgeting for 20+ student organizations  
+- Ensured accuracy of financial system data  
 
 ---
 
-### 🔹 Business Analyst Intern — AIS (Microsoft Project)
+### Association for Information Systems (AIS) — CSULB  
+**Business Analyst Intern (Project Microsoft)** (Sep 2025 – Nov 2025)
 
-- Built Power BI dashboards for KPI visualization
-- Developed ETL pipelines using Microsoft Fabric
-- Conducted feasibility and SWOT analysis
-- Presented insights to Microsoft stakeholders
+- Built Power BI dashboards using DAX and data models  
+- Developed ETL pipelines using Microsoft Fabric and Copilot  
+- Conducted correlation analysis and market research  
+- Performed SWOT and cost-benefit analysis  
+- Presented insights to Microsoft stakeholders  
+- Ensured data accuracy across cross-functional teams  
 
 ---
 
 ## 📊 Projects
 
-### 🔹 One Piece Bounty Intelligence Dashboard
+### One Piece Bounty Intelligence Dashboard
 - Built interactive dashboard using HTML, Chart.js, and JavaScript  
+- Cleaned and combined datasets from Kaggle (data up to Sept 2021)  
 - Analyzed performance trends, segmentation, and value distribution  
-- Used AI-assisted workflows for insights and development  
+- Applied AI-assisted analysis and insight generation  
 
-👉 [Live Dashboard](https://wasimahin.github.io/onepiece-bounty-sept-2021/)  
-👉 [GitHub Repo](https://github.com/wasimahin/onepiece-bounty-sept-2021)
+🔗 Live: https://wasimahin.github.io/onepiece-bounty-sept-2021/  
+🔗 Repo: https://github.com/wasimahin/onepiece-bounty-sept-2021  
 
 ---
 
@@ -87,32 +98,42 @@ I specialize in turning messy data into clear insights and building systems that
 **California State University, Long Beach**  
 B.S. Management Information Systems & Accountancy  
 📅 Expected May 2027  
-🏆 President’s List (Every Semester)
+
+- GPA: 3.87  
+- President’s List — Every Semester  
+- Dual Major  
 
 ---
 
 ## 📚 Relevant Coursework
 
-- Data Analytics & Programming  
-- Database Management (SQL)  
+- Business Data Analysis & Programming  
+- Management Information Systems  
+- Business Application Programming  
 - Systems Analysis & Design  
-- Business Intelligence  
-- Financial & Cost Accounting  
+- Database Management  
+- Business Statistics  
+- Intermediate Accounting I & II  
+- Federal Tax Law  
+- Cost Accounting  
 - Business Finance  
+- Financial Accounting  
 
 ---
 
-## 🤖 AI + Data Approach
+## 🤖 AI & Data Workflow
 
-I actively integrate AI tools (ChatGPT, Claude) into my workflow to:
-- accelerate data analysis  
-- generate insights  
-- improve development efficiency  
+Experience integrating AI tools (ChatGPT, Claude) into:
+- data analysis workflows  
+- automation and reporting  
+- insight generation  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/wasi-mahin  
 - GitHub: https://github.com/wasimahin  
 - Portfolio: https://www.datacamp.com/portfolio/wasimahin  
+
+---
