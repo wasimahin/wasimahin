@@ -7,7 +7,7 @@ Aspiring Data Analyst & Business Intelligence Professional
 📍 Long Beach, CA • 📧 wasimahin@gmail.com  
 🔗 <a href="https://linkedin.com/in/wasi-mahin">LinkedIn</a> • 
 💻 <a href="https://github.com/wasimahin">GitHub</a> • 
-📊 📊 <a href="https://www.datacamp.com/portfolio/wasimahin">DataCamp</a>
+📊 <a href="https://www.datacamp.com/portfolio/wasimahin">DataCamp</a>
 </p>
 
 ---
