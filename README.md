@@ -1,139 +1,84 @@
-<h1 align="center">Wasi Mahin</h1>
-<p align="center">
-Aspiring Data Analyst & Business Intelligence Professional  
-</p>
+# Wasi Mahin
 
-<p align="center">
-📍 Long Beach, CA • 📧 wasimahin@gmail.com  
-🔗 <a href="https://linkedin.com/in/wasi-mahin">LinkedIn</a> • 
-💻 <a href="https://github.com/wasimahin">GitHub</a> • 
-📊 <a href="https://www.datacamp.com/portfolio/wasimahin">DataCamp</a>
-</p>
+**Data Analyst & Business Intelligence Professional**
+
+Dual-major in **Management Information Systems & Accountancy** @ California State University, Long Beach  
+GPA: **3.87** · President's List — Every Semester · Expected May 2027
+
+📍 Long Beach, CA · 📧 wasimahin@gmail.com · [LinkedIn](https://linkedin.com/in/wasi-mahin) · [DataCamp Portfolio](https://datacamp.com/portfolio/wasimahin)
 
 ---
 
-## 🎯 Professional Summary
+## 🚀 Featured Project
 
-Dual-major student in **Management Information Systems and Accountancy** at CSULB (GPA: 3.87, President’s List every semester) with 1.5+ years of applied experience in financial data analysis, Power BI dashboard development, and AI-driven workflow automation.
+### [Snehin Check Request Helper](https://github.com/wasimahin/snehin-check-request-helper)
+*Python · pdfplumber · PyMuPDF · pyautogui · CustomTkinter · Microsoft Dynamics 365 BC*
 
-Demonstrated ability to reduce processing time by 70–80% and increase operational efficiency by 50% through data-driven process redesign. Seeking opportunities in Data Analytics, Business Intelligence, or Financial Analysis.
+A production RPA desktop application I built from scratch that parses vendor invoice PDFs and executes full data entry into **Microsoft Dynamics 365 Business Central** via UI automation — no API or ERP credentials required.
 
----
+| | Before | After |
+|---|---|---|
+| ⏱ Time per invoice | 3–5 minutes | 3–10 seconds |
+| 📉 Reduction | — | **~96%** |
+| 🔌 API required | — | None |
+| 📦 Status | — | **Live in production** |
 
-## 🛠️ Core Competencies
-
-### Tools & Platforms
-- Power BI (DAX, Data Modeling)  
-- Microsoft Fabric  
-- Microsoft Copilot  
-- Excel (Advanced)  
-- SQL  
-- Python (Basic)  
-- GitHub  
-
-### Analytics
-- ETL Pipelines  
-- KPI Dashboard Design  
-- Financial Statement Analysis  
-- Correlation Analysis  
-- Data Visualization  
-- Prompt Engineering  
-
-### Business
-- Budgeting & Forecasting  
-- Process Improvement  
-- Stakeholder Communication  
-- SWOT & Feasibility Analysis  
-- Business Intelligence  
+Features: deterministic account code normalization · duplicate invoice detection · CSV audit trail · pre-entry validation panel · one-click PDF rename workflow · custom dark-mode GUI built for non-technical staff
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-### Associated Students, Inc. — CSULB  
-**Lead Business Office Representative / Office Teller** (Feb 2026 – Present)
+**Analytics & BI**
+`Power BI` `DAX` `Data Modeling` `ETL Pipelines` `KPI Dashboard Design` `Data Visualization`
 
-- Automated financial data extraction, validation, and reporting using Microsoft Copilot and prompt engineering  
-- Increased operational efficiency by 50% through workflow redesign  
-- Maintained 100% data reliability across financial reporting cycles  
-- Delivered SQL-driven budget analysis for ASI and USU  
-- Trained team members on financial systems and processes  
+**Data Engineering**
+`SQL` `Microsoft Fabric` `PDF Data Extraction` `RPA / GUI Automation` `Financial Statement Analysis`
 
-**Business Office Representative / Office Teller** (Oct 2024 – Feb 2026)
+**Tools & Platforms**
+`Python` `Microsoft Copilot` `Microsoft Dynamics 365 BC` `Excel (Advanced)` `GitHub` `CustomTkinter`
 
-- Reduced processing time by 80% through system improvements  
-- Automated data workflows, reducing processing time by 70%  
-- Supported budgeting for 20+ student organizations  
-- Ensured accuracy of financial system data  
+**Business**
+`Budgeting & Forecasting` `SWOT Analysis` `Stakeholder Communication` `Process Improvement` `Business Intelligence`
 
 ---
 
-### Association for Information Systems (AIS) — CSULB  
-**Business Analyst Intern (Project Microsoft)** (Sep 2025 – Nov 2025)
+## 💼 Experience Highlights
 
-- Built Power BI dashboards using DAX and data models  
-- Developed ETL pipelines using Microsoft Fabric and Copilot  
-- Conducted correlation analysis and market research  
-- Performed SWOT and cost-benefit analysis  
-- Presented insights to Microsoft stakeholders  
-- Ensured data accuracy across cross-functional teams  
+**Lead Business Office Representative** · Associated Students, Inc. — CSULB *(Feb 2026 – Present)*
+- Built and deployed Snehin Check Request Helper → **~96% reduction** in ERP data entry time
+- Automated financial reporting pipelines with Microsoft Copilot → **70–80% faster** processing
+- Redesigned office workflows → **50% operational efficiency gain** adopted team-wide
+- SQL-driven budget analysis + financial statement management for **20+ student organizations** at **100% data reliability**
 
----
-
-## 📊 Projects
-
-### One Piece Bounty Intelligence Dashboard
-- Built interactive dashboard using HTML, Chart.js, and JavaScript  
-- Cleaned and combined datasets from Kaggle (data up to Sept 2021)  
-- Analyzed performance trends, segmentation, and value distribution  
-- Applied AI-assisted analysis and insight generation  
-
-🔗 Live: https://wasimahin.github.io/onepiece-bounty-sept-2021/  
-🔗 Repo: https://github.com/wasimahin/onepiece-bounty-sept-2021  
+**Business Analyst Intern — Project Microsoft** · AIS CSULB *(Sep – Nov 2025)*
+- Engineered interactive **Power BI dashboards** with DAX and custom data models for Microsoft stakeholder presentations
+- Built **ETL pipelines in Microsoft Fabric**; conducted correlation analysis and market research
+- Co-delivered business pitches to Microsoft representatives
 
 ---
 
 ## 🎓 Education
 
-**California State University, Long Beach**  
-B.S. Management Information Systems & Accountancy  
-📅 Expected May 2027  
+**B.S. Management Information Systems & Accountancy** · CSULB · Exp. May 2027
 
-- GPA: 3.87  
-- President’s List — Every Semester  
-- Dual Major  
+*Relevant Coursework:* Business Data Analysis & Programming · Management Information Systems · Business Application Programming · Systems Analysis & Design · Database Management · Business Statistics · Intermediate Accounting I & II · Federal Tax Law · Cost Accounting · Business Finance
 
 ---
 
-## 📚 Relevant Coursework
+## 📜 Certifications
 
-- Business Data Analysis & Programming  
-- Management Information Systems  
-- Business Application Programming  
-- Systems Analysis & Design  
-- Database Management  
-- Business Statistics  
-- Intermediate Accounting I & II  
-- Federal Tax Law  
-- Cost Accounting  
-- Business Finance  
-- Financial Accounting  
+- Career Essentials in Data Analysis — Microsoft & LinkedIn
+- Learning Data Analytics: Parts 1 & 2 — LinkedIn Learning
+- Introduction to Career Skills in Data Analytics — LinkedIn Learning
+- Python for Non-Programmers — DataCamp
 
 ---
 
-## 🤖 AI & Data Workflow
+## 📬 Let's Connect
 
-Experience integrating AI tools (ChatGPT, Claude) into:
-- data analysis workflows  
-- automation and reporting  
-- insight generation  
+I'm actively seeking **Summer/Fall 2026 internships** in Data Analytics, Business Intelligence, or Financial Analysis.
 
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/wasi-mahin  
-- GitHub: https://github.com/wasimahin  
-- DataCamp: https://www.datacamp.com/portfolio/wasimahin  
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/wasi-mahin)
+[![Email](https://img.shields.io/badge/Email-wasimahin%40gmail.com-red?style=flat&logo=gmail)](mailto:wasimahin@gmail.com)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=flat&logo=datacamp&logoColor=white)](https://datacamp.com/portfolio/wasimahin)
