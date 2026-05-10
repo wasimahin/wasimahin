@@ -152,7 +152,7 @@ GPA: **3.87** &nbsp;·&nbsp; President's Honor List — Every Semester
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-two-cyan.vercel.app?user=wasimahin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=wasimahin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 ---
