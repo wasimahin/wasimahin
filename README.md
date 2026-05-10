@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Data Analyst &amp; Business Intelligence &nbsp;·&nbsp; MIS + Accountancy @ CSULB &nbsp;·&nbsp; GPA 3.87</strong><br/>
-  Dual-major student building <em>production</em> analytics tools and automation that solve real problems at scale
+  Building production automation tools and data systems that deliver measurable, business-ready results
 </p>
 
 <p align="center">
@@ -21,9 +21,7 @@
 
 ## About
 
-I'm a dual-major student in **Management Information Systems & Accountancy** at Cal State Long Beach (GPA 3.87 · President's List every semester). I sit at the intersection of data engineering and financial analysis — building Python automation tools live in production, and analyzing data with SQL, Power BI, and Microsoft Fabric.
-
-Two of my tools run in production at ASI CSULB's Business Office today, collectively eliminating hundreds of manual keystrokes daily and cutting processing times by **70–96%**. I'm actively seeking Summer/Fall 2026 internships in **Data Analytics** or **Business Intelligence**.
+MIS & Accountancy dual-major at Cal State Long Beach (GPA: 3.87 · President's Honor List every semester) with 1.5+ years of production experience engineering Python automation tools, Power BI and Tableau dashboards, ETL pipelines, and SQL-driven financial analytics. I bridge technical fluency with financial domain expertise — two of my tools are live in production at ASI CSULB, cutting processing times by **up to 96%**. Actively seeking Summer/Fall 2026 internships in **Data Analytics** or **Business Intelligence**.
 
 ---
 
@@ -32,30 +30,36 @@ Two of my tools run in production at ASI CSULB's Business Office today, collecti
 ### [Snehin Check Request Helper](https://github.com/wasimahin/snehin-check-request-helper)
 > Python · pdfplumber · PyMuPDF · pyautogui · CustomTkinter · Microsoft Dynamics 365 BC
 
-A desktop RPA application that parses vendor invoice PDFs and auto-enters all data into Microsoft Dynamics 365 Business Central via UI automation — no API integration, no ERP credentials.
+Desktop RPA application that parses vendor invoice PDFs and auto-enters all data into Microsoft Dynamics 365 Business Central via UI automation — zero API integration, no ERP credentials required.
 
 | Metric | Before | After |
 |---|---|---|
 | Time per invoice | 3–5 minutes | 3–10 seconds |
 | Processing time reduction | — | **~96%** |
-| API / ERP credentials required | — | **None** |
+| API / credentials required | — | **None** |
 
 ✅ **Live in production at ASI CSULB**
 
 ---
 
 ### [BC Journal Entry Bot](https://github.com/wasimahin/bc-journal-entry-bot)
-> Python · pdfplumber · PyMuPDF · openpyxl · pyautogui · CustomTkinter · Microsoft Dynamics 365 BC
+> Python · pdfplumber · openpyxl · pyautogui · CustomTkinter · Microsoft Dynamics 365 BC
 
-Reads DocuSign journal entry PDFs and CashNet Excel files, structures debit/credit lines, and auto-enters complete journal entries into Business Central via ALT+F8 hotkey-triggered automation.
+Reads DocuSign journal entry PDFs and CashNet Excel files, structures debit/credit journal lines, and auto-enters complete entries into Business Central via hotkey-triggered automation.
 
 | Metric | Before | After |
 |---|---|---|
 | Time per entry (simple) | ~2 minutes | ~5 seconds |
-| Time per entry (multi-line) | ~15 minutes | ~30–60 seconds |
-| Processing time reduction | — | **70–95%** |
+| Time per entry (complex) | ~15 minutes | ~30–60 seconds |
+| Processing time reduction | — | **Up to 95%** |
 
 ✅ **Live in production at ASI CSULB**
+
+---
+
+## 🏆 Achievements
+
+- **Datathon — 3rd Place** · Applied end-to-end data analysis, feature engineering, and visualization under time constraints to extract actionable insights from raw datasets
 
 ---
 
@@ -64,6 +68,7 @@ Reads DocuSign journal entry PDFs and CashNet Excel files, structures debit/cred
 **Analytics & Business Intelligence**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Excel Advanced](https://img.shields.io/badge/Excel%20%28Advanced%29-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -75,13 +80,13 @@ Reads DocuSign journal entry PDFs and CashNet Excel files, structures debit/cred
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-333?style=flat-square)
 ![PDF Data Extraction](https://img.shields.io/badge/PDF%20Data%20Extraction-cc0000?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-333?style=flat-square)
+
+**Finance & Strategy**
+
 ![Financial Analysis](https://img.shields.io/badge/Financial%20Statement%20Analysis-1a7a4a?style=flat-square)
-
-**Automation & GUI**
-
-![pyautogui](https://img.shields.io/badge/pyautogui-RPA%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![pdfplumber](https://img.shields.io/badge/pdfplumber-PDF%20Parsing-cc0000?style=flat-square)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Dark%20GUI-111111?style=flat-square)
+![Budget Forecasting](https://img.shields.io/badge/Budget%20Planning%20%26%20Forecasting-1a7a4a?style=flat-square)
+![Variance Analysis](https://img.shields.io/badge/Variance%20Analysis-1a7a4a?style=flat-square)
 
 **Platforms & Tools**
 
@@ -93,24 +98,25 @@ Reads DocuSign journal entry PDFs and CashNet Excel files, structures debit/cred
 
 ## 💼 Experience
 
-**Lead Business Office Representative (Financial Operations Coordinator)** &nbsp;·&nbsp; ASI CSULB &nbsp;·&nbsp; *Oct 2024 – Present*
-- Built and deployed the Snehin Check Request Helper → ~96% reduction in ERP data entry time
-- Automated financial reporting pipelines with Microsoft Copilot → 70–80% faster processing
-- Redesigned office workflows adopted team-wide → 50% operational efficiency improvement
-- SQL-driven budget analysis and financial statement management for 500+ registered student organizations at 100% data reliability
+**Vice President of Finance** &nbsp;·&nbsp; Association for Information Systems – CSULB &nbsp;·&nbsp; *May 2026 – Present*
+- Oversee financial planning, budget management, and resource allocation for a 100+ member organization, managing a $5,000+ operating budget and external grant funding across workshops, seminars, and large-scale events
+- Analyze financial data to support strategic decision-making; leading improvements to financial tracking and reporting processes to enhance transparency and scalability
 
-**[VP OF FINANCE — FILL IN: Org name · Dates]**
-- [Bullet 1 — key responsibility or quantified win]
-- [Bullet 2 — key responsibility or quantified win]
+**Lead Business Office Representative** &nbsp;·&nbsp; Associated Students Inc. – CSULB &nbsp;·&nbsp; *Feb 2026 – Present*
+- Engineered two production Python automation tools — Snehin Check Request Helper (~96% reduction) and BC Journal Entry Bot (up to 95% reduction) — both live with zero API integration
+- Oversee financial documentation for 500+ registered campus organizations: accounts payable, purchase orders, bank reconciliations, document auditing, and compliance verification
+- Automated financial data extraction, validation, and reporting pipelines using Microsoft Copilot, reducing processing time by 70–80% across ASI and USU operations
+- Deliver SQL-driven budget analysis, assist in budget creation for ASI and USU, and maintain 100% data accuracy across all financial statement and audit cycles
+- Redesigned end-to-end office workflows achieving 50% operational efficiency gain; standardized protocols adopted team-wide
 
-**Business Analyst Intern** &nbsp;·&nbsp; Project Microsoft · AIS CSULB &nbsp;·&nbsp; *Sep – Nov 2025*
-- Engineered interactive Power BI dashboards with DAX and custom data models for Microsoft stakeholder presentations
-- Built ETL pipelines in Microsoft Fabric; conducted correlation analysis and market research across datasets
-- Co-delivered business pitches directly to Microsoft representatives
+**Business Analyst Intern (Project Microsoft)** &nbsp;·&nbsp; Association for Information Systems – CSULB &nbsp;·&nbsp; *Sep – Nov 2025*
+- Engineered interactive Power BI dashboards using DAX and custom data models, transforming raw datasets into executive-ready KPI visualizations for Microsoft stakeholders
+- Built ETL pipelines in Microsoft Fabric; conducted correlation analysis and market research generating insights that shaped project strategy
+- Executed SWOT and cost-benefit analyses; co-authored and delivered business pitches to Microsoft representatives, securing stakeholder confidence
 
-**Accounting Clerk** &nbsp;·&nbsp; Dhaka, Bangladesh &nbsp;·&nbsp; *Feb – Jul 2023*
-- Managed petty cash ledger and reconciliation of daily operational expenses using Excel-based tracking systems
-- Identified discrepancies and delivered analytical reports to management; streamlined data entry workflows
+**Business Office Representative** &nbsp;·&nbsp; Associated Students Inc. – CSULB &nbsp;·&nbsp; *Oct 2024 – Feb 2026*
+- Reduced check processing time by 80% by implementing an upgraded financial system
+- Co-developed 2025–2026 ASI and USU operating budgets; managed and reconciled financial statements for 20+ student organizations
 
 ---
 
@@ -118,7 +124,7 @@ Reads DocuSign journal entry PDFs and CashNet Excel files, structures debit/cred
 
 **B.S. Management Information Systems & Accountancy** &nbsp;·&nbsp; California State University, Long Beach &nbsp;·&nbsp; *Expected May 2027*
 
-GPA: **3.87** &nbsp;·&nbsp; President's List — Every Semester
+GPA: **3.87** &nbsp;·&nbsp; President's Honor List — Every Semester
 
 *Relevant coursework:* Business Data Analysis & Programming · Management Information Systems · Business Application Programming · Systems Analysis & Design · Database Management · Business Statistics · Intermediate Accounting I & II · Federal Tax Law · Cost Accounting · Business Finance
 
@@ -129,9 +135,9 @@ GPA: **3.87** &nbsp;·&nbsp; President's List — Every Semester
 | Certification | Issuer |
 |---|---|
 | Career Essentials in Data Analysis | Microsoft & LinkedIn Learning |
-| Data Analytics: Parts 1 & 2 | LinkedIn Learning |
-| Introduction to Career Skills in Data Analytics | LinkedIn Learning |
-| Python for Non-Programmers | DataCamp |
+| Data Manipulation in SQL | DataCamp |
+| Creating & Analyzing Dashboards in Tableau | DataCamp |
+| Introduction to Tableau | DataCamp |
 
 ---
 
