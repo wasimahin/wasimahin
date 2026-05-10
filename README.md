@@ -144,9 +144,15 @@ GPA: **3.87** &nbsp;·&nbsp; President's Honor List — Every Semester
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasimahin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimahin&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top language" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/wasimahin?style=for-the-badge&label=Followers&color=181717&logo=github&logoColor=white" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/wasimahin?style=for-the-badge&label=Stars&color=F2C811&logo=github&logoColor=black" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-two-cyan.vercel.app?user=wasimahin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 ---
