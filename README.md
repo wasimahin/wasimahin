@@ -141,19 +141,17 @@ GPA: **3.87** &nbsp;·&nbsp; President's Honor List — Every Semester
 
 ---
 
-## 📊 GitHub Stats
+## 📈 By the Numbers
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top language" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/wasimahin?style=for-the-badge&label=Followers&color=181717&logo=github&logoColor=white" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/wasimahin?style=for-the-badge&label=Stars&color=F2C811&logo=github&logoColor=black" alt="Stars" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wasimahin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
+| | |
+|---|---|
+| ⚡ Invoice processing time reduction | **~96%** — Snehin Check Request Helper |
+| ⚡ Journal entry processing time reduction | **Up to 95%** — BC Journal Entry Bot |
+| 🏢 Student organizations supported | **500+** at ASI CSULB |
+| 📉 Office workflow efficiency gain | **50%** — adopted team-wide |
+| 🤖 API integrations required | **Zero** — pure UI automation |
+| 🎓 GPA | **3.87** · President's Honor List every semester |
+| 🏆 Datathon placement | **3rd place** |
 
 ---
 
